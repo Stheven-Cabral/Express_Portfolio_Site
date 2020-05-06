@@ -1,0 +1,24 @@
+{
+  "name": "express_portfolio_site",
+  "version": "1.0.0",
+  "description": "Sixth Full Stack JavaScript Techdgree Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stheven-Cabral/Express_Portfolio_Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stheven-Cabral/Express_Portfolio_Site/issues"
+  },
+  "homepage": "https://github.com/Stheven-Cabral/Express_Portfolio_Site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
