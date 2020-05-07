@@ -10,15 +10,16 @@ app.use(express.static('public'));
 
 /*Route to the home page*/
 app.get('/', (req, res, next) => {
-    console.log(data.projects);
     res.render('index', {projects: data.projects});
 });
 
+/*Route to the about page*/
 app.get('/about', (req, res, next) => {
     res.render('about');
 });
 
-app.get('/project:id', (req, res, next) => {
+app.get('/project/:id', (req, res, next) => {
+    const projectId = req.params.id;
     res.send('<h1>work in progress</h1>');
 });
 
