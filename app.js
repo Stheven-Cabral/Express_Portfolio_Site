@@ -30,8 +30,10 @@ app.get('/project/:id', (req, res, next) => {
     } 
 });
 
+/*Catches any 404 errors*/
 app.use((req, res, next) => {
     const err = new Error('Not Found');
+    console.log("We're sorry. Something went wrong.");
     err.status = 404;
     next(err);
 });
@@ -43,6 +45,4 @@ app.use((err, req, res, next) => {
     res.render('error');
 });
 
-app.listen(3000, () => {
-    console.log('Server is listening on port 3000');
-});
+app.listen(3000);
