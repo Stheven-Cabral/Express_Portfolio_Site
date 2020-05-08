@@ -3,6 +3,7 @@ const data = require('./data.json');
 
 const app = express();
 
+/*Pug setup*/
 app.set('view engine', 'pug');
 
 /*Serve static files*/
