@@ -27,13 +27,16 @@ app.get('/project/:id', (req, res, next) => {
     if (project) {
         res.render('project', { project });
     } else {
-        res.sendStatus(404);
+        const err = new Error("I'm sorry. Page Not Found");
+        console.log("We're sorry. Something went wrong.");
+        err.status = 404;
+        next(err);
     } 
 });
 
 /*Catches any 404 errors*/
 app.use((req, res, next) => {
-    const err = new Error('Not Found');
+    const err = new Error("I'm sorry. Page Not Found");
     console.log("We're sorry. Something went wrong.");
     err.status = 404;
     next(err);
