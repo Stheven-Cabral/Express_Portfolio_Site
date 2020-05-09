@@ -6,8 +6,8 @@
             "description": "The focus of this project was to write JavaScript that would retrieve data from the random user API using the Fetch API, parse the data, use the data to create twelve random employees, build an employee directory, and add search and modal interactivity.The main highlights of this project are the search function as well as the modal event handlers. The search allows a user to filter the employee directory by name. Employee cards are clickable and clicking on a card opens up a modal window with furthur employee details. The next and previous buttons respond to filtered results so that only filtered employees have viewable modals.",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "https://stheven-cabral.github.io/Public_API_Request/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/Public_API_Request",
-            "image_urls": ["../images/project-1-main.png", "../images/project-1-all.png", "../images/project-1-modal.png", "../images/project-1-filtered.png"]
+            "github_link": "https://github.com/Stheven-Cabral/Public_API_Request",
+            "image_urls": ["/images/project-1-main.png", "/images/project-1-all.png", "/images/project-1-modal.png", "/images/project-1-filtered.png"]
         },
         {
             "id": 2,
@@ -15,8 +15,8 @@
             "description": "The focus of this project was to use object oriented programming concepts to build an interactive phrase quessing game. Classes were used to represent the Game as well as the Phrase to be guessed. The Game phrase includes methods that starts the game, selects a random phrase, handles letter select events, checks if the player is a winner, and displays the win or loss screen. The Phrase class includes methods that add the phrase to the display, checks if selected letters are in the phrase, removes lives, and displays the correct chosen letters.",
             "technologies": ["HTML", "CSS", "animate.css", "JavaScript"],
             "live_link": "https://stheven-cabral.github.io/Phrase_Hunter_Game/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/Phrase_Hunter_Game",
-            "image_urls": ["../images/project-2-main.png", "../images/project-2-game.png", "../images/project-2-win.png", "../images/project-2-lose.png"]
+            "github_link": "https://github.com/Stheven-Cabral/Phrase_Hunter_Game",
+            "image_urls": ["/images/project-2-main.png", "/images/project-2-game.png", "/images/project-2-win.png", "/images/project-2-lose.png"]
         },
         {
             "id": 3,
@@ -24,8 +24,8 @@
             "description": "For this project, the goal was to add interactivity and validation to a registration form for a fictional conference. I used pure JavaScript to add interactivity, conditional behaviors as well as validation for various input types. Submission of the form is only permitted when no form validation errors occur.",
             "technologies": ["HTML", "CSS", "JavaScript", "Regular Expressions"],
             "live_link": "https://stheven-cabral.github.io/Interactive_Form/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/Interactive_Form",
-            "image_urls": ["../images/project-3-main.png", "../images/project-3-top.png", "../images/project-3-middle.png", "../images/project-3-bottom.png"]
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Form",
+            "image_urls": ["/images/project-3-main.png", "/images/project-3-top.png", "/images/project-3-middle.png", "/images/project-3-bottom.png"]
         },
         {
             "id": 4,
@@ -33,8 +33,8 @@
             "description": "The focus of this project was to encorporate pagination and filtering to make the student directory more user friendly and easy to use. I wrote multiple JavaScript functions to encorporate a search bar, search filtering functionality, pagination, and control of how many students are displayed on each page. In addition, use of the search bar filters the student list, and the pagination links adjust to the number of filtered student items.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://stheven-cabral.github.io/List_Pagination_and_Filtering/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/List_Pagination_and_Filtering",
-            "image_urls": ["../images/project-4-main.png", "../images/project-4-full.png", "../images/project-4-filtered.png", "../images/project-4-noresult.png"]
+            "github_link": "https://github.com/Stheven-Cabral/List_Pagination_and_Filtering",
+            "image_urls": ["/images/project-4-main.png", "/images/project-4-full.png", "/images/project-4-filtered.png", "/images/project-4-noresult.png"]
         },
         {
             "id": 5,
@@ -42,8 +42,8 @@
             "description": "The Random Quote Generator displays a quote from an array of movie quote objects. I used JavaScript to code various functions that call a random quote object from a quotes array, displays the quote object properties in the quote box, change the background color, and displays a different quote at a set interval.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://stheven-cabral.github.io/Random_Quote_Generator/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/Random_Quote_Generator",
-            "image_urls": ["../images/project-5-main.png", "../images/project-5-quote1.png", "../images/project-5-quote2.png", "../images/project-5-quote3.png"]
+            "github_link": "https://github.com/Stheven-Cabral/Random_Quote_Generator",
+            "image_urls": ["/images/project-5-main.png", "/images/project-5-quote1.png", "/images/project-5-quote2.png", "/images/project-5-quote3.png"]
         },
         {
             "id": 6,
@@ -51,8 +51,8 @@
             "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "gtihub_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
-            "image_urls": ["../images/project-6-main.png", "../images/project-6-full.png", "../images/project-6-lightbox.png", "../images/project-6-lightbox2.png"]
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-6-main.png", "/images/project-6-full.png", "/images/project-6-lightbox.png", "/images/project-6-lightbox2.png"]
         }
     ]
 }
