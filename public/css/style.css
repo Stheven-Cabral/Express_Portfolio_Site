@@ -1,10 +1,9 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -58,7 +57,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #121313;
   color: #fff;
   box-shadow: none !important;
 }
@@ -147,4 +146,35 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+/* Style changes and additoons for extra credit*/
+body{
+  background-color: #f1ffff;
+}
+
+h1{
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.portfolio-me{
+  background: #2b1414;
+}
+
+.project-thumb img,
+.grid-container img{
+  box-shadow: 0px 0px 20px 3px #ccc;
+  transition: all 0.3s linear;
+}
+
+.project-thumb img:hover{
+  transform: scale(1.04, 1.04);
+}
+
+.button{
+  background-color: #2b1414;
+}
+
+.error-content{
+  margin: 20px;
 }

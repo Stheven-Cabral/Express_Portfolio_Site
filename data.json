@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "project_name": "Interactive Registration Form",
+            "project_name": "Interactive Form",
             "description": "For this project, the goal was to add interactivity and validation to a registration form for a fictional conference. I used pure JavaScript to add interactivity, conditional behaviors as well as validation for various input types. Submission of the form is only permitted when no form validation errors occur.",
             "technologies": ["HTML", "CSS", "JavaScript", "Regular Expressions"],
             "live_link": "https://stheven-cabral.github.io/Interactive_Form/",
