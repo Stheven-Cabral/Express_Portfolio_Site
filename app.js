@@ -76,5 +76,4 @@ app.use((err, req, res, next) => {
     res.render('error');
 });
 
-const PORT = process.env.PORT;
 // app.listen(3000); 
