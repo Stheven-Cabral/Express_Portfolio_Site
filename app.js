@@ -77,4 +77,7 @@ app.use((err, req, res, next) => {
 });
 
 
+/***
+ * The following code listens for errors on the port set by heroku as well as port 3000.
+ */
 app.listen(process.env.PORT || 3000);
