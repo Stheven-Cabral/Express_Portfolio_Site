@@ -56,12 +56,48 @@
         },
         {
             "id": 7,
-            "project_name": "Interactive Photo Gallery",
+            "project_name": "Dashboard with Widgets",
             "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
             "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
-            "image_urls": ["/images/project-6-main.png", "/images/project-6-full.png", "/images/project-6-lightbox.png", "/images/project-6-lightbox2.png"]
+            "image_urls": ["/images/project-7-main.png", "/images/project-7-traffic.png", "/images/project-7-users.png", "/images/project-7-settings.png"]
+        },
+        {
+            "id": 8,
+            "project_name": "Front End Tech Degree Professional Portfolio",
+            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-8-main.png", "/images/project-8-projects.png", "/images/project-8-skills.png", "/images/project-8-contacts.png"]
+        },
+        {
+            "id": 9,
+            "project_name": "Library Database Manager",
+            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-9-main.png", "/images/project-9-addbook.png", "/images/project-9-updatebook.png", "/images/project-9-deletebook.png"]
+        },
+        {
+            "id": 10,
+            "project_name": "Course Database App Built with React",
+            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-10-main.png", "/images/project-10-signup.png", "/images/project-10-courses.png", "/images/project-10-course-detail.png"]
+        },
+        {
+            "id": 11,
+            "project_name": "Gallery App Built with React",
+            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-11-main.png", "/images/project-11-search.png", "/images/project-11-noresult.png", "/images/project-11-pagenotfound.png"]
         }
     ]
 }
