@@ -59,8 +59,8 @@
             "project_name": "Dashboard with Widgets",
             "description": "A responsive dashboard I created using HTML, CSS, and JavaScript. I used inline SVG's in order to customize icon fills and paths. In addition, I used the chart.js library to create line, bar, and pie chart widgets. The project focused on creating tables, charts, and graphics and other interactive user components.",
             "technologies": ["HTML", "CSS", "JavaScript", "chart.js"],
-            "live_link": "",
-            "github_link": "",
+            "live_link": "https://stheven-cabral.github.io/Web_App_Dashboard/",
+            "github_link": "https://github.com/Stheven-Cabral/Web_App_Dashboard",
             "image_urls": ["/images/project-7-main.png", "/images/project-7-traffic.png", "/images/project-7-users.png", "/images/project-7-settings.png"]
         },
         {
@@ -68,8 +68,8 @@
             "project_name": "Front End Tech Degree Professional Portfolio",
             "description": "A responsive professional portfolio I built for the final project of the Team Treehouse Front End Web Development Tech Degree program. The portfolio is a showcases of the technologies I learned from the program such as HTML, CSS, JavaScript and Boostrap. The portfolio section includes projects I've built using these technologies.",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
-            "live_link": "",
-            "github_link": "",
+            "live_link": "https://stheven-cabral.github.io/Stheven_Cabral_Professional_Portfolio/",
+            "github_link": "https://github.com/Stheven-Cabral/Stheven_Cabral_Professional_Portfolio",
             "image_urls": ["/images/project-8-main.png", "/images/project-8-projects.png", "/images/project-8-skills.png", "/images/project-8-contacts.png"]
         },
         {
@@ -77,26 +77,26 @@
             "project_name": "Library Database Manager",
             "description": "A library database manager web application using Pug, CSS, JavaScript, Express, Node.js, Sequelize, and SQLite. The application include endpoints to a list of books currently in the database, a form for adding a book, a form for updating books, and a delete book option.",
             "technologies": ["HTML", "CSS", "JavaScript", "Express", "node.js", "Sequelize", "SQLite"],
-            "live_link": "",
-            "github_link": "",
+            "live_link": "https://sc-fsjs-td-library-database.herokuapp.com/books",
+            "github_link": "https://github.com/Stheven-Cabral/SQL-Library-Database-Manager",
             "image_urls": ["/images/project-9-main.png", "/images/project-9-addbook.png", "/images/project-9-updatebook.png", "/images/project-9-deletebook.png"]
         },
         {
             "id": 10,
             "project_name": "Course Database App Built with React",
-            "description": ".",
-            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "",
-            "github_link": "",
+            "description": "A course database application that provides a way for users to administer a school database containing information about courses. Users can interact with the database by retrieving a list of courses, viewing detail for a specific course, as well as creating, updating and deleting courses in the database.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Express", "Sequelize", "SQLite", "Postman", "React", "Context API"],
+            "live_link": "https://fsjs-td-react-course-database.herokuapp.com/",
+            "github_link": "https://github.com/Stheven-Cabral/full-stack-course-database-app",
             "image_urls": ["/images/project-10-main.png", "/images/project-10-signup.png", "/images/project-10-courses.png", "/images/project-10-course-detail.png"]
         },
         {
             "id": 11,
             "project_name": "Gallery App Built with React",
-            "description": ".",
-            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "",
-            "github_link": "",
+            "description": "A gallery application that provides a way for a user to find images based on a search topic. The project focused on using React Router and how to handle fetched data from a third party API.",
+            "technologies": ["HTML", "CSS", "JavaScript", "React"],
+            "live_link": "https://sc-fsjs-td-react-gallery-app.herokuapp.com/",
+            "github_link": "https://github.com/Stheven-Cabral/React-Gallery-Application",
             "image_urls": ["/images/project-11-main.png", "/images/project-11-search.png", "/images/project-11-noresult.png", "/images/project-11-pagenotfound.png"]
         }
     ]
