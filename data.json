@@ -53,6 +53,15 @@
             "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
             "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
             "image_urls": ["/images/project-6-main.png", "/images/project-6-full.png", "/images/project-6-lightbox.png", "/images/project-6-lightbox2.png"]
+        },
+        {
+            "id": 7,
+            "project_name": "Interactive Photo Gallery",
+            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
+            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "image_urls": ["/images/project-6-main.png", "/images/project-6-full.png", "/images/project-6-lightbox.png", "/images/project-6-lightbox2.png"]
         }
     ]
 }
