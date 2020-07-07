@@ -57,46 +57,46 @@
         {
             "id": 7,
             "project_name": "Dashboard with Widgets",
-            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
-            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "description": "A responsive dashboard I created using HTML, CSS, and JavaScript. I used inline SVG's in order to customize icon fills and paths. In addition, I used the chart.js library to create line, bar, and pie chart widgets. The project focused on creating tables, charts, and graphics and other interactive user components.",
+            "technologies": ["HTML", "CSS", "JavaScript", "chart.js"],
+            "live_link": "",
+            "github_link": "",
             "image_urls": ["/images/project-7-main.png", "/images/project-7-traffic.png", "/images/project-7-users.png", "/images/project-7-settings.png"]
         },
         {
             "id": 8,
             "project_name": "Front End Tech Degree Professional Portfolio",
-            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
-            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "description": "A responsive professional portfolio I built for the final project of the Team Treehouse Front End Web Development Tech Degree program. The portfolio is a showcases of the technologies I learned from the program such as HTML, CSS, JavaScript and Boostrap. The portfolio section includes projects I've built using these technologies.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
+            "live_link": "",
+            "github_link": "",
             "image_urls": ["/images/project-8-main.png", "/images/project-8-projects.png", "/images/project-8-skills.png", "/images/project-8-contacts.png"]
         },
         {
             "id": 9,
             "project_name": "Library Database Manager",
-            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
-            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "description": "A library database manager web application using Pug, CSS, JavaScript, Express, Node.js, Sequelize, and SQLite. The application include endpoints to a list of books currently in the database, a form for adding a book, a form for updating books, and a delete book option.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Express", "node.js", "Sequelize", "SQLite"],
+            "live_link": "",
+            "github_link": "",
             "image_urls": ["/images/project-9-main.png", "/images/project-9-addbook.png", "/images/project-9-updatebook.png", "/images/project-9-deletebook.png"]
         },
         {
             "id": 10,
             "project_name": "Course Database App Built with React",
-            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "description": ".",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "live_link": "",
+            "github_link": "",
             "image_urls": ["/images/project-10-main.png", "/images/project-10-signup.png", "/images/project-10-courses.png", "/images/project-10-course-detail.png"]
         },
         {
             "id": 11,
             "project_name": "Gallery App Built with React",
-            "description": "An interactive photo gallery project that displays small images of various photographs that are clickable in order to display a lightbox containing a larger view of the photograph. I used jQuery to build the search function and a jQuery plugin for the image lightbox.",
+            "description": ".",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-            "live_link": "https://stheven-cabral.github.io/Interactive_Photo_Gallery/",
-            "github_link": "https://github.com/Stheven-Cabral/Interactive_Photo_Gallery",
+            "live_link": "",
+            "github_link": "",
             "image_urls": ["/images/project-11-main.png", "/images/project-11-search.png", "/images/project-11-noresult.png", "/images/project-11-pagenotfound.png"]
         }
     ]
