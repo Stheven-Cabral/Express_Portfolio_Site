@@ -75,7 +75,7 @@
         {
             "id": 9,
             "project_name": "Library Database Manager",
-            "description": "A library database manager web application using Pug, CSS, JavaScript, Express, Node.js, Sequelize, and SQLite. The application include endpoints to a list of books currently in the database, a form for adding a book, a form for updating books, and a delete book option.",
+            "description": "A library database manager web application I built using Pug, CSS, JavaScript, Express, Node.js, Sequelize, and SQLite. The application include endpoints to a list of books currently in the database, a form for adding a book, a form for updating books, and a delete book option.",
             "technologies": ["HTML", "CSS", "JavaScript", "Express", "node.js", "Sequelize", "SQLite"],
             "live_link": "https://sc-fsjs-td-library-database.herokuapp.com/books",
             "github_link": "https://github.com/Stheven-Cabral/SQL-Library-Database-Manager",
