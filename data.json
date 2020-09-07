@@ -102,7 +102,7 @@
         {
             "id": 12,
             "project_name": "Basketball Court Review Website",
-            "description": "A basketball court review website that provides a way for a user to find an indoor or outdoor court based on a search input, view and add reviews, and add new courts to the database. The project focused on using the Hasura to setup up an API that points to a a postgres database on heroku. Apollo was used to connect React components to the Hasura gnerated API.",
+            "description": "A basketball court review website that provides a way for a user to find an indoor or outdoor court based on a search input, view and add reviews, and add new courts to the database. The project focused on using Hasura to setup up an API that points to a a postgres database on heroku. Apollo was used to connect React components to the Hasura generated API.",
             "technologies": ["HTML", "CSS", "Emotion", "JavaScript", "React", "Hasura graphQL", "Apollo Client"],
             "live_link": "https://hoop-up.netlify.app/",
             "github_link": "https://github.com/Stheven-Cabral/basketball-court-rating-app/blob/master/README.md",
