@@ -98,6 +98,15 @@
             "live_link": "https://sc-fsjs-td-react-gallery-app.herokuapp.com/",
             "github_link": "https://github.com/Stheven-Cabral/React-Gallery-Application",
             "image_urls": ["/images/project-11-main.png", "/images/project-11-search.png", "/images/project-11-noresult.png", "/images/project-11-pagenotfound.png"]
+        },
+        {
+            "id": 12,
+            "project_name": "Basketball Court Review Website",
+            "description": "A basketball court review website that provides a way for a user to find an indoor or outdoor court based on a search input, view and add reviews, and add new courts to the database. The project focused on using the Hasura to setup up an API that points to a a postgres database on heroku. Apollo was used to connect React components to the Hasura gnerated API.",
+            "technologies": ["HTML", "CSS", "Emotion", "JavaScript", "React", "Hasura graphQL", "Apollo Client"],
+            "live_link": "https://hoop-up.netlify.app/",
+            "github_link": "https://github.com/Stheven-Cabral/basketball-court-rating-app/blob/master/README.md",
+            "image_urls": ["/images/hoopup-main.png", "/images/hoopup_1.png", "/images/hoopup_2.png", "/images/hoopup_3.png"]
         }
     ]
 }
