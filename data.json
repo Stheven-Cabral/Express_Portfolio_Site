@@ -106,7 +106,7 @@
             "technologies": ["HTML", "CSS", "Emotion", "JavaScript", "React", "Hasura graphQL", "Apollo Client"],
             "live_link": "https://hoop-up.netlify.app/",
             "github_link": "https://github.com/Stheven-Cabral/basketball-court-rating-app/blob/master/README.md",
-            "image_urls": ["/images/hoopup-main.PNG", "/images/hoopup_1.PNG", "/images/hoopup_2.PNG", "/images/hoopup_3.PNG"]
+            "image_urls": ["/images/hp-main.png", "/images/hoopup_1.PNG", "/images/hoopup_2.PNG", "/images/hoopup_3.PNG"]
         }
     ]
 }
